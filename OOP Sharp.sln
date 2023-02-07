@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP Sharp", "OOP Sharp\OOP Sharp.csproj", "{31F9B976-A2C6-4C8C-9A56-3A8A9F249B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFraction", "ClassFraction\ClassFraction.csproj", "{C4C11AD4-50F3-473C-A6A2-412EACDAB205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F9B976-A2C6-4C8C-9A56-3A8A9F249B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F9B976-A2C6-4C8C-9A56-3A8A9F249B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F9B976-A2C6-4C8C-9A56-3A8A9F249B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F9B976-A2C6-4C8C-9A56-3A8A9F249B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C11AD4-50F3-473C-A6A2-412EACDAB205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C11AD4-50F3-473C-A6A2-412EACDAB205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C11AD4-50F3-473C-A6A2-412EACDAB205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C11AD4-50F3-473C-A6A2-412EACDAB205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52EB560-B50B-42E6-A130-A33DE7394D08}
+	EndGlobalSection
+EndGlobal
